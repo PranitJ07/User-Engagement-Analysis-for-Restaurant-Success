@@ -19,3 +19,6 @@ success metrics (review count, ratings) for restaurants.
 - Higher levels of user engagement (more reviews, tips, and check-ins) correlate with higher review counts and ratings for restaurants.
 - Positive sentiment expressed in reviews and tips contributes to higher overall ratings and review counts for restaurants.
 - Consistent engagement over time is positively associated with sustained business success for restaurants.
+
+
+Dataset from Yelp: https://www.yelp.com/dataset
